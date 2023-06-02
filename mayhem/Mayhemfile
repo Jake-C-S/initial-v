@@ -1,0 +1,5 @@
+project: initial-v
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
